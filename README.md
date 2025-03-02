@@ -1,7 +1,7 @@
 # Ever After Journey
 
 **Final Requirement for Computer Programming 2**  
-**Developed using Java JFrame and JSwing GUI**
+**Developed using Java JFrame, JSwing GUI and MySQL Database**
 
 ## Overview
 Ever After Journey is a wedding planning system designed to help couples seamlessly organize their special day. This system provides an interactive and user-friendly platform to manage seating arrangements, guest invitations, and personalized e-invitations.
