@@ -40,7 +40,8 @@ Ever After Journey is a wedding planning system designed to help couples seamles
 4. Run the application and enjoy planning your dream wedding!
 
 ## Contributors
+- Wendel Derraco (me) for the development.
 - Maica Pualon for the concept <3
 - Jerryson Derraco for helping the developer (me) for the logic.
-- Hazel Bisnar, Renier Santiago, and Andrei Cruz for the paper.
+- Maica Pualon, Hazel Bisnar, Renier Santiago, and Andrei Cruz for the paper.
 
